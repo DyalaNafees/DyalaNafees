@@ -9,19 +9,19 @@
 ## About Me
 
 **Currently working on**<br>
-Full-stack development, side projects, and getting better at problem solving, one stubborn problem at a time.
+Full-Stack Development, personal projects & improving my problem-solving skills.
 
 **Looking to collaborate on**<br>
-Tech projects, student communities, and any creative idea that sounds slightly too ambitious.
+Tech projects, student communities & creative ideas.
 
 **Looking for help with**<br>
-Problem solving. I bring the enthusiasm, you bring the tricks.
+Strengthening my problem-solving skills and becoming a better developer.
 
 **Currently learning**<br>
-C#, ASP.NET Core & modern web development (my browser tabs are multiplying as we speak).
+C#, ASP.NET Core & modern web development.
 
 **Ask me about**<br>
-GDGoC, UI/UX design, web development, and how to build a student tech community people actually show up to.
+GDGoC, UI/UX design, web development & building student tech communities.
 
 **Fun fact**<br>
 My productive hours are strictly between 11 PM and 3 AM. The rest of the day is just background processing.
