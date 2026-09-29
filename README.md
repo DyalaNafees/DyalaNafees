@@ -1,8 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=200&section=header&text=Dyala%20Nafees&fontSize=50&fontColor=282a36&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20GDGoC%20Leader%20%7C%20Night%20Owl&descSize=18&descAlignY=58)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;GDGoC+Leader;Turning+coffee+into+code;Building+student+tech+communities;Most+productive+after+11+PM)](https://git.io/typing-svg)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=200&section=header&text=Dyala%20Nafees&fontSize=50&fontColor=282a36&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20GDGoC%20Leader%20%7C%20IEEE%20CIS%20Founder&descSize=18&descAlignY=58)
 
 </div>
 
@@ -32,7 +30,9 @@ My productive hours are strictly between 11 PM and 3 AM. The rest of the day is 
 
 ## Socials & Community
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees) ![GDGoC](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4) ![](https://img.shields.io/badge/-%20%20-4285F4?style=for-the-badge) ![](https://img.shields.io/badge/-%20%20-EA4335?style=for-the-badge) ![](https://img.shields.io/badge/-%20%20-FBBC04?style=for-the-badge) ![](https://img.shields.io/badge/-%20%20-34A853?style=for-the-badge)
+**Founder of IEEE CIS & Leader of GDGoC**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees) ![GDGoC](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4)
 
 ---
 
