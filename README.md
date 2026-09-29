@@ -30,9 +30,7 @@ My productive hours are strictly between 11 PM and 3 AM. The rest of the day is 
 
 ## Socials & Community
 
-**Founder of IEEE CIS & Leader of GDGoC**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees) ![GDGoC](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees) [![GDGoC Leader](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4)](https://www.instagram.com/gdgasu) [![IEEE CIS Founder](https://img.shields.io/badge/-IEEE%20CIS%20Founder-282a36?style=for-the-badge&logo=ieee&logoColor=50fa7b)](https://www.instagram.com/ieeecisasu)
 
 ---
 
