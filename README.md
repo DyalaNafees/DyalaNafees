@@ -1,49 +1,45 @@
-# 💫 About Me
+## 💫 About Me
 
-🛠️ **I’m currently working on**  
+**🛠️ I’m currently working on**<br>
 Full-Stack Development, personal projects & improving my problem-solving skills.
 
-🤝 **I’m looking to collaborate on**  
-Tech projects, student communities & creative ideas.
+**🤝 I’m looking to collaborate on**<br>
+Tech projects, student communities & creative ideas
 
-🔎 **I’m looking for help with**  
+**🔎 I’m looking for help with**<br>
 Strengthening my problem-solving skills and becoming a better developer.
 
-📚 **I’m currently learning**  
+**📚 I’m currently learning**<br>
 C#, ASP.NET Core & modern web development.
 
-💬 **Ask me about**  
+**💬 Ask me about**<br>
 GDGoC, UI/UX design, web development & building student tech communities.
 
-⚡ **Fun fact**  
-My productive hours are strictly between 11 PM and 3 AM. The rest of the day is just background processing. 🌙☕
+**⚡ Fun fact**<br>
+My productive hours are strictly between 11 PM and 3 AM. The rest of the day is just background processing.
 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=B1004C)](https://linkedin.com/in/DyalaNafees)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees)
 
 ---
 
 ## 💻 Tech Stack
-![C#](https://img.shields.io/badge/C%23-FFC0CB?style=for-the-badge&logo=csharp&logoColor=B1004C)
-![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=B1004C)
-![JavaFX](https://img.shields.io/badge/JavaFX-FFC0CB?style=for-the-badge&logo=javafx&logoColor=B1004C)
-![C++](https://img.shields.io/badge/C%2B%2B-FFC0CB?style=for-the-badge&logo=c%2B%2B&logoColor=B1004C)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=B1004C)
-![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=B1004C)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=B1004C)
-![MySQL](https://img.shields.io/badge/MySQL-FFC0CB?style=for-the-badge&logo=mysql&logoColor=B1004C)
-![Figma](https://img.shields.io/badge/Figma-FFC0CB?style=for-the-badge&logo=figma&logoColor=B1004C)
-![Notion](https://img.shields.io/badge/Notion-FFC0CB?style=for-the-badge&logo=notion&logoColor=B1004C)
+
+![C#](https://img.shields.io/badge/-C%23-282a36?style=for-the-badge&logo=csharp&logoColor=bd93f9) ![C++](https://img.shields.io/badge/-C%2B%2B-282a36?style=for-the-badge&logo=cplusplus&logoColor=8be9fd) ![Java](https://img.shields.io/badge/-Java-282a36?style=for-the-badge&logo=openjdk&logoColor=ffb86c) ![JavaScript](https://img.shields.io/badge/-JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=f1fa8c) ![HTML5](https://img.shields.io/badge/-HTML5-282a36?style=for-the-badge&logo=html5&logoColor=ff5555) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282a36?style=for-the-badge&logo=bootstrap&logoColor=bd93f9) ![Figma](https://img.shields.io/badge/-Figma-282a36?style=for-the-badge&logo=figma&logoColor=ff79c6) ![Notion](https://img.shields.io/badge/-Notion-282a36?style=for-the-badge&logo=notion&logoColor=f8f8f2) ![JavaFX](https://img.shields.io/badge/-JavaFX-282a36?style=for-the-badge&logo=openjdk&logoColor=50fa7b) ![MySQL](https://img.shields.io/badge/-MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=8be9fd)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=DyalaNafees&theme=rose&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=DyalaNafees&theme=rose&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DyalaNafees&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+
+![](https://github-readme-stats.shion.dev/api?username=DyalaNafees&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=DyalaNafees&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DyalaNafees&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=DyalaNafees&icon=7&color=bd93f9&style=for-the-badge&labelColor=282a36)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
