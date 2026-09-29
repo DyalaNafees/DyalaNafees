@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=200&section=header&text=Dyala%20Nafees&fontSize=50&fontColor=282a36&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20GDGoC%20Leader%20%7C%20IEEE%20CIS%20Founder&descSize=18&descAlignY=58)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=200&section=header&text=Dyala%20Nafees&fontSize=50&fontColor=282a36&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20GDGoC%20Leader%20%7C%20IEEE%20CIS%20Founder&descSize=18&descAlignY=58" width="100%" alt="" />
 
 </div>
 
@@ -65,7 +65,7 @@ My productive hours are strictly between 11 PM and 3 AM. The rest of the day is 
 
 [![](https://komarev.com/ghpvc/?username=DyalaNafees&icon=7&color=bd93f9&style=for-the-badge&labelColor=282a36)](https://visitcount.itsvg.in)
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=100&section=footer" width="100%" alt="" />
 
 </div>
 
