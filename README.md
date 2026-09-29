@@ -1,45 +1,76 @@
-## 💫 About Me
+<div align="center">
 
-**🛠️ I’m currently working on**<br>
-Full-Stack Development, personal projects & improving my problem-solving skills.
+![](https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=200&section=header&text=Dyala%20Nafees&fontSize=50&fontColor=282a36&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20GDGoC%20Leader%20%7C%20Night%20Owl&descSize=18&descAlignY=58)
 
-**🤝 I’m looking to collaborate on**<br>
-Tech projects, student communities & creative ideas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;GDGoC+Leader;Turning+coffee+into+code;Building+student+tech+communities;Most+productive+after+11+PM)](https://git.io/typing-svg)
 
-**🔎 I’m looking for help with**<br>
-Strengthening my problem-solving skills and becoming a better developer.
+</div>
 
-**📚 I’m currently learning**<br>
-C#, ASP.NET Core & modern web development.
+---
 
-**💬 Ask me about**<br>
-GDGoC, UI/UX design, web development & building student tech communities.
+## About Me
 
-**⚡ Fun fact**<br>
+**Currently working on**<br>
+Full-stack development, side projects, and getting better at problem solving, one stubborn problem at a time.
+
+**Looking to collaborate on**<br>
+Tech projects, student communities, and any creative idea that sounds slightly too ambitious.
+
+**Looking for help with**<br>
+Problem solving. I bring the enthusiasm, you bring the tricks.
+
+**Currently learning**<br>
+C#, ASP.NET Core & modern web development (my browser tabs are multiplying as we speak).
+
+**Ask me about**<br>
+GDGoC, UI/UX design, web development, and how to build a student tech community people actually show up to.
+
+**Fun fact**<br>
 My productive hours are strictly between 11 PM and 3 AM. The rest of the day is just background processing.
 
 ---
 
-## 🌐 Socials
+## Socials & Community
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees) ![GDGoC](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4) ![](https://img.shields.io/badge/-%20%20-4285F4?style=for-the-badge) ![](https://img.shields.io/badge/-%20%20-EA4335?style=for-the-badge) ![](https://img.shields.io/badge/-%20%20-FBBC04?style=for-the-badge) ![](https://img.shields.io/badge/-%20%20-34A853?style=for-the-badge)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-282a36?style=for-the-badge&logo=csharp&logoColor=bd93f9) ![C++](https://img.shields.io/badge/-C%2B%2B-282a36?style=for-the-badge&logo=cplusplus&logoColor=8be9fd) ![Java](https://img.shields.io/badge/-Java-282a36?style=for-the-badge&logo=openjdk&logoColor=ffb86c) ![JavaScript](https://img.shields.io/badge/-JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=f1fa8c) ![HTML5](https://img.shields.io/badge/-HTML5-282a36?style=for-the-badge&logo=html5&logoColor=ff5555) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282a36?style=for-the-badge&logo=bootstrap&logoColor=bd93f9) ![Figma](https://img.shields.io/badge/-Figma-282a36?style=for-the-badge&logo=figma&logoColor=ff79c6) ![Notion](https://img.shields.io/badge/-Notion-282a36?style=for-the-badge&logo=notion&logoColor=f8f8f2) ![JavaFX](https://img.shields.io/badge/-JavaFX-282a36?style=for-the-badge&logo=openjdk&logoColor=50fa7b) ![MySQL](https://img.shields.io/badge/-MySQL-282a36?style=for-the-badge&logo=mysql&logoColor=8be9fd)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=DyalaNafees&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DyalaNafees&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DyalaNafees&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
+## Proof I Really Code at Night (WakaTime)
+شيلي علامات التعليق بعد ما تعملي حساب WakaTime وتفعّلي "Display code time publicly" وتبدلي اليوزرنيم:
+
+![](https://github-readme-stats.shion.dev/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dracula&layout=compact)
+-->
+
 ---
 
+## Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=DyalaNafees&theme=dracula&hide_border=true&area=true)
+
+---
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
 [![](https://komarev.com/ghpvc/?username=DyalaNafees&icon=7&color=bd93f9&style=for-the-badge&labelColor=282a36)](https://visitcount.itsvg.in)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=100&section=footer)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
