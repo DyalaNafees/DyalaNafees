@@ -30,7 +30,7 @@ My productive hours are strictly between 11 PM and 3 AM. The rest of the day is 
 
 ## Socials & Community
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://linkedin.com/in/DyalaNafees) [![GDGoC Leader](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4)](https://www.instagram.com/gdgasu) [![IEEE CIS Founder](https://img.shields.io/badge/-IEEE%20CIS%20Founder-282a36?style=for-the-badge&logo=ieee&logoColor=50fa7b)](https://www.instagram.com/ieeecisasu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282a36?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://www.linkedin.com/in/dyala-nafees) [![GDGoC Leader](https://img.shields.io/badge/-GDGoC%20Leader-282a36?style=for-the-badge&logo=google&logoColor=4285F4)](https://www.instagram.com/gdgasu) [![IEEE CIS Founder](https://img.shields.io/badge/-IEEE%20CIS%20Founder-282a36?style=for-the-badge&logo=ieee&logoColor=50fa7b)](https://www.instagram.com/ieeecisasu)
 
 ---
 
@@ -62,8 +62,6 @@ My productive hours are strictly between 11 PM and 3 AM. The rest of the day is 
 ---
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 [![](https://komarev.com/ghpvc/?username=DyalaNafees&icon=7&color=bd93f9&style=for-the-badge&labelColor=282a36)](https://visitcount.itsvg.in)
 
